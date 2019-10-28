@@ -1,0 +1,29 @@
+body {
+  background-color:#216fed;
+}
+h1 {
+  color:#f5b5ff;
+}
+
+div#main {
+  background-color: #edce21;
+  width: 500px;
+}
+
+div#title {
+  text-align: center;
+  font-size: 32px;
+  background-color: white;
+}
+
+div#container {
+  background-color:white;
+}
+
+div.section {
+  color: white;
+  background-color: #861dbf;
+  font-size: 32.px;
+  width: 33.33%;
+  float: left;
+}
